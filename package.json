@@ -1,0 +1,10 @@
+{
+  "name": "shop-micro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rudrava M. <rudravamukherjee.2001@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
